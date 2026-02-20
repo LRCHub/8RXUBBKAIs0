@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "これが私の生きる道",
+  "base_artist": "PUFFY",
+  "createdAt": "2026-02-20T08:54:23.515496Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "これが私の生きる道",
+      "artist": "Puffy AmiYumi",
+      "has_synced": false,
+      "path": "select/01_これが私の生きる道_Puffy_AmiYumi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "これが私の生きる道",
+      "artist": "PUFFY",
+      "has_synced": false,
+      "path": "select/02_これが私の生きる道_PUFFY.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "これが私の生きる道 - Korega Watashino Ikiru Michi (That's The Way It Is)",
+      "artist": "PUFFY",
+      "has_synced": false,
+      "path": "select/03_これが私の生きる道_-_Korega_Watashino_Ikiru_Michi_(That's_The_Way_It_Is)_PUFFY.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "これが私の生きる道 (Mandarin Version)",
+      "artist": "PUFFY",
+      "has_synced": false,
+      "path": "select/04_これが私の生きる道_(Mandarin_Version)_PUFFY.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "「これが私の生きる道 (MONO) 」 PUFFY",
+      "artist": "nagaya so",
+      "has_synced": true,
+      "path": "select/05_「これが私の生きる道_(MONO)_」_PUFFY_nagaya_so.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "これが私の生きる道",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/06_これが私の生きる道_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "これが私の生きる道 (北京語ヴァージョン)",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/07_これが私の生きる道_(北京語ヴァージョン)_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "これが私の生きる道",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/08_これが私の生きる道_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "これが私の生きる道",
+      "artist": "Puffy AmiYumi",
+      "has_synced": true,
+      "path": "select/09_これが私の生きる道_Puffy_AmiYumi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "これが私の生きる道 (PUFFY)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/10_これが私の生きる道_(PUFFY)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "これが私の生きる道",
+      "artist": "真心ブラザーズ",
+      "has_synced": false,
+      "path": "select/11_これが私の生きる道_真心ブラザーズ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "これが私の生きる道 (Sunaga T Experience Remix)",
+      "artist": "Puffy",
+      "has_synced": true,
+      "path": "select/12_これが私の生きる道_(Sunaga_T_Experience_Remix)_Puffy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "これが私の生きる道",
+      "artist": "PUFFY",
+      "has_synced": false,
+      "path": "select/pl_01_これが私の生きる道_PUFFY.txt"
+    }
+  ]
+}
